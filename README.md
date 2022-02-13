@@ -1,4 +1,4 @@
-# Tools
+# Ressources
 Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🕸️ Internet
