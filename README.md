@@ -1,5 +1,5 @@
 # Tools
-Des outils pour coder &amp; designer des sites web
+Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🕸️ Internet
 - [Internet Archive](https://web.archive.org/)
