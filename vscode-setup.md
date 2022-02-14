@@ -6,6 +6,8 @@
 
 ### Extensions
 
+`French Language Pack`to translate VS Code UI into French. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
+
 `Auto Close Tag` to automatically close HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 `Auto Rename Tag` to automatically update matching HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
