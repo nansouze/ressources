@@ -6,7 +6,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🛠️ Development Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [My VS Code Setup]()
+- [My Visual Studio Code Setup](vscode-setup.md/)
 - [Code Pen](https://codepen.io/)
 - [JS Bin](https://jsbin.com/?html,js,console)
 - [JS Fiddle](https://jsfiddle.net/)
