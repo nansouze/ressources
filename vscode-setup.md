@@ -6,7 +6,9 @@
 
 ### Extensions
 
-`French Language Pack`to translate VS Code UI into French. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
+`French Language Pack` to translate VS Code UI into French. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr)
+
+`Material Icon Theme` to get the Material Design icons into your VS Code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 `Auto Close Tag` to automatically close HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
