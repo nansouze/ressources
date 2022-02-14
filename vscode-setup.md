@@ -14,6 +14,10 @@
 
 `HTML CSS Support` to get HTML id and class attribute completion for Visual Studio Code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
+`JavaScript (ES6) Code Snippets` to get code snippets for JavaScript in ES6 syntax (supports both JavaScript and TypeScript). [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+`Peacock` to subtly change the color of your Visual Studio Code workspace. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
 `Prettier` to automatically format code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 `Live Server` to create a live preview for the current project. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
