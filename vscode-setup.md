@@ -10,6 +10,12 @@
 
 `Material Icon Theme` to get the Material Design icons into your VS Code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+`Auto Close Tag` to automatically close HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+`Auto Rename Tag` to automatically update matching HTML tags. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+`Color Highlight` to highlight colors in CSS code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
 `HTML Snippets` to get full HTML tags including HTML5 Snippets. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 
 `HTML CSS Support` to get HTML id and class attribute completion for Visual Studio Code. [Link &rarr;](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
