@@ -59,5 +59,17 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Flaticon](https://www.flaticon.com/)
 - [Noun Project](https://thenounproject.com/)
 
+## 🖌️ Illustrations
+- [UI8](https://ui8.net/)
+- [Ouch](https://icons8.com/illustrations)
+- [Craftwork](https://craftwork.design/)
+- [Blush](https://blush.design/)
+
+## 🔍 Inspirations
+- [Mobbin](https://mobbin.design/)
+- [Awwwards](https://www.awwwards.com/)
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
