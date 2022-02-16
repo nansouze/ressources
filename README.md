@@ -38,15 +38,26 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [UI Gradients](https://uigradients.com/)
 - [0 to 255](https://www.0to255.com/)
 - [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
+- [UI Colour](https://www.instagram.com/ui.colour/)
+- [Colours Café](https://www.instagram.com/colours.cafe/)
+- [Muzli Colors](https://colors.muz.li/)
+- [Coolors](https://coolors.co/)
 
 ## 🗛 Fonts
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/fr/)
 - [Fontsquirrel](https://www.fontsquirrel.com/)
+- [Fontshare](https://www.fontshare.com/)
 - [MyFonts](https://www.myfonts.com/)
 - [Fonts Ninja](https://www.fonts.ninja/)
 - [The 100 Best Free Fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 - [A Pocket Guide to Typography](http://www.typogui.de/)
+
+## 🦄 Icons
+- [Iconly](https://piqodesign.gumroad.com/l/iconly)
+- [Icons8](https://icons8.com/)
+- [Flaticon](https://www.flaticon.com/)
+- [Noun Project](https://thenounproject.com/)
 
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
