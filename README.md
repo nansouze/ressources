@@ -56,6 +56,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 ## 🗛 Pictures
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
 
 ## 🦄 Icons
 - [Iconly](https://piqodesign.gumroad.com/l/iconly)
