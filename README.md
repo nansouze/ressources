@@ -53,7 +53,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [The 100 Best Free Fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 - [A Pocket Guide to Typography](http://www.typogui.de/)
 
-## 🗛 Pictures
+## 📷 Pictures
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
