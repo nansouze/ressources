@@ -35,7 +35,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Fontsquirrel](https://www.fontsquirrel.com/)
 - [MyFonts](https://www.myfonts.com/)
 - [Fonts Ninja](https://www.fonts.ninja/)
-- [The 100 best free fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
+- [The 100 Best Free Fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 - [A Pocket Guide to Typography](http://www.typogui.de/)
 
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
