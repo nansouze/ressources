@@ -29,6 +29,16 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Clippy](https://bennettfeely.com/clippy/)
 - [CSS Easing Functions](https://easings.net/)
 
+## 🎨 Colors
+- [Color Hunt](https://colorhunt.co/)
+- [Open Color](https://yeun.github.io/open-color/)
+- [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [Material Palette](https://www.materialpalette.com/)
+- [UI Gradients](https://uigradients.com/)
+- [0 to 255](https://www.0to255.com/)
+- [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
+
 ## 🗛 Fonts
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/fr/)
