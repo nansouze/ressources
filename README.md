@@ -75,6 +75,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Awwwards](https://www.awwwards.com/)
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
+- [Collect UI](https://collectui.com/)
 
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
