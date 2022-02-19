@@ -85,5 +85,17 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Behance](https://www.behance.net/)
 - [Collect UI](https://collectui.com/)
 
+## 📡 Deploying your project
+
+- [GitHub Pages](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Surge](https://surge.sh/)
+- [Render](https://render.com/)
+- [Heroku](https://www.heroku.com/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+- [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
