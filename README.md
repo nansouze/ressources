@@ -85,7 +85,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Behance](https://www.behance.net/)
 - [Collect UI](https://collectui.com/)
 
-## 📡 Deploying your project
+## 📡 Deploying
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
