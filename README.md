@@ -44,7 +44,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Muzli Colors](https://colors.muz.li/)
 - [Coolors](https://coolors.co/)
 
-## 🗛 Fonts
+## 🖋️ Fonts
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/fr/)
 - [Fontsquirrel](https://www.fontsquirrel.com/)
