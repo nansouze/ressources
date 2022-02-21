@@ -6,6 +6,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🛠️ Development Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code for the Web](https://vscode.dev/)
 - [Cmder | Console Emulator](https://cmder.net/)
 - [Code Pen](https://codepen.io/)
 - [JS Bin](https://jsbin.com/?html,js,console)
