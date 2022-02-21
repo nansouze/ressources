@@ -84,7 +84,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 - [Collect UI](https://collectui.com/)
-- [Dayly Dev](https://daily.dev/)
+- [Daily Dev](https://daily.dev/)
 
 ## 📡 Deploying
 
