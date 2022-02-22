@@ -7,7 +7,10 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 ## 🛠️ Development Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Studio Code for the Web](https://vscode.dev/)
-- [Cmder | Console Emulator](https://cmder.net/)
+- [Cmder | Terminal](https://cmder.net/)
+- [Hyper | Terminal](https://hyper.is/)
+- [Conemu | Terminal](https://conemu.github.io/)
+- [Tabby | Terminal](https://tabby.sh/)
 - [Code Pen](https://codepen.io/)
 - [JS Bin](https://jsbin.com/?html,js,console)
 - [JS Fiddle](https://jsfiddle.net/)
