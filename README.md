@@ -20,6 +20,15 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Code Sandbox](https://codesandbox.io/)
 - [Replit](https://replit.com/)
 - [Stackblitz](https://stackblitz.com/)
+- [CK Editor](https://ckeditor.com/)
+- [Codebeautify](https://codebeautify.org/)
+- [PO Editor](https://poeditor.com/)
+- [Web Code](https://webcode.tools/)
+- [Carbon Now](https://carbon.now.sh/)
+- [Axeptio](https://www.axeptio.eu/en/home)
+- [Formspree](https://formspree.io/)
+- [RegEx 101](https://regex101.com/)
+- [I Hate RegEx](https://ihateregex.io/)
 
 ## 🔥 Productivity Tools
 
@@ -49,17 +58,19 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 ## 🎨 Colors
 
 - [Color Hunt](https://colorhunt.co/)
+- [Coolors](https://coolors.co/)
 - [Open Color](https://yeun.github.io/open-color/)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Material Palette](https://www.materialpalette.com/)
 - [UI Gradients](https://uigradients.com/)
+- [CSS Gradient](https://cssgradient.io/)
+- [HTML Color Codes](https://htmlcolorcodes.com/fr/)
 - [0 to 255](https://www.0to255.com/)
 - [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
 - [UI Colour](https://www.instagram.com/ui.colour/)
 - [Colours Café](https://www.instagram.com/colours.cafe/)
 - [Muzli Colors](https://colors.muz.li/)
-- [Coolors](https://coolors.co/)
 
 ## 🖋️ Fonts
 
@@ -69,6 +80,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Fontshare](https://www.fontshare.com/)
 - [MyFonts](https://www.myfonts.com/)
 - [Fonts Ninja](https://www.fonts.ninja/)
+- [Transfonter](https://transfonter.org/)
 - [The 100 Best Free Fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 - [A Pocket Guide to Typography](http://www.typogui.de/)
 
@@ -78,6 +90,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Remove Image Background](https://www.remove.bg/)
+- [Get Waves](https://getwaves.io/)
 
 ## 🦄 Icons
 
@@ -141,3 +154,4 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 
 - [phpMyAdmin](https://www.phpmyadmin.net/)
+- [SQL Lite Online IDE](https://sqliteonline.com/)
