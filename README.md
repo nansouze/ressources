@@ -1,10 +1,13 @@
 # Ressources
+
 Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🕸️ Internet
+
 - [Internet Archive](https://web.archive.org/)
 
 ## 🛠️ Development Tools
+
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Studio Code for the Web](https://vscode.dev/)
 - [Cmder | Terminal](https://cmder.net/)
@@ -19,17 +22,20 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Stackblitz](https://stackblitz.com/)
 
 ## 🔥 Productivity Tools
+
 - [Trello](https://trello.com/)
 - [Mind Meister](https://www.mindmeister.com/fr/)
 - [Mind Meister Open Classroom](https://www.mindmeister.com/fr/1701207547/d-veloppement-web?fullscreen=1)
 - [Whimsical](https://whimsical.com/javascript-QY5if68ixaKmFChuiezVkQ?fbclid=IwAR3G8byofmt1jZdYMbG57yToD3c1V85RlCJHjcpPINCT27-DfxShjl2U_x4)
 
 ## 🧬 HTML
+
 - [HTML5 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Reference](https://htmlreference.io/)
 - [Code Snippets HTML](https://css-tricks.com/snippets/html/glyphs/)
 
 ## 🖍️ CSS
+
 - [CSS3 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Can I Use](https://caniuse.com/)
 - [CSS Reference](https://cssreference.io/)
@@ -40,6 +46,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [CSS Easing Functions](https://easings.net/)
 
 ## 🎨 Colors
+
 - [Color Hunt](https://colorhunt.co/)
 - [Open Color](https://yeun.github.io/open-color/)
 - [Tailwind Colors](https://tailwindcss.com/docs/customizing-colors)
@@ -54,6 +61,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Coolors](https://coolors.co/)
 
 ## 🖋️ Fonts
+
 - [Google Fonts](https://fonts.google.com/)
 - [DaFont](https://www.dafont.com/fr/)
 - [Fontsquirrel](https://www.fontsquirrel.com/)
@@ -64,24 +72,28 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [A Pocket Guide to Typography](http://www.typogui.de/)
 
 ## 📷 Pictures
+
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Remove Image Background](https://www.remove.bg/)
 
 ## 🦄 Icons
+
 - [Iconly](https://piqodesign.gumroad.com/l/iconly)
 - [Icons8](https://icons8.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Noun Project](https://thenounproject.com/)
 
 ## 🖌️ Illustrations
+
 - [UI8](https://ui8.net/)
 - [Ouch](https://icons8.com/illustrations)
 - [Craftwork](https://craftwork.design/)
 - [Blush](https://blush.design/)
 
 ## 🔍 Inspirations
+
 - [Mobbin](https://mobbin.design/)
 - [Awwwards](https://www.awwwards.com/)
 - [Dribbble](https://dribbble.com/)
@@ -89,14 +101,20 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Collect UI](https://collectui.com/)
 
 ## 🎾 Practice
-- [Daily Dev](https://daily.dev/)
-- [Checklist Design](https://www.checklist.design/)
-- [A11 Y Project](https://www.a11yproject.com/checklist/)
-- [Design System Checklist](https://www.designsystemchecklist.com/)
-- [UX Challenges](https://uxtools.co/challenges/)
-- [Sharpen Design](https://sharpen.design/)
-- [What Should I Design](http://www.whatshouldidesign.com/)
-- [Brief Generator](https://goodbrief.io/)
+
+- **DEV**
+  - [Front End Mentor Challenges](https://www.frontendmentor.io/challenges)
+  - [Front End Masters Bootcamp](https://frontendmasters.com/bootcamp/)
+  - [Daily Dev](https://daily.dev/)
+
+- **DESIGN**
+  - [Checklist Design](https://www.checklist.design/)
+  - [A11 Y Project](https://www.a11yproject.com/checklist/)
+  - [Design System Checklist](https://www.designsystemchecklist.com/)
+  - [UX Challenges](https://uxtools.co/challenges/)
+  - [Sharpen Design](https://sharpen.design/)
+  - [What Should I Design](http://www.whatshouldidesign.com/)
+  - [Brief Generator](https://goodbrief.io/)
 
 ### 📻 Sounds
 
@@ -118,4 +136,5 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
+
 - [phpMyAdmin](https://www.phpmyadmin.net/)
