@@ -27,6 +27,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Mind Meister](https://www.mindmeister.com/fr/)
 - [Mind Meister Open Classroom](https://www.mindmeister.com/fr/1701207547/d-veloppement-web?fullscreen=1)
 - [Whimsical](https://whimsical.com/javascript-QY5if68ixaKmFChuiezVkQ?fbclid=IwAR3G8byofmt1jZdYMbG57yToD3c1V85RlCJHjcpPINCT27-DfxShjl2U_x4)
+- [Milanote](https://milanote.com/)
 
 ## 🧬 HTML
 
