@@ -18,6 +18,12 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Replit](https://replit.com/)
 - [Stackblitz](https://stackblitz.com/)
 
+## 🔥 Productivity Tools
+- [Trello](https://trello.com/)
+- [Mind Meister](https://www.mindmeister.com/fr/)
+- [Mind Meister Open Classroom](https://www.mindmeister.com/fr/1701207547/d-veloppement-web?fullscreen=1)
+- [Whimsical](https://whimsical.com/javascript-QY5if68ixaKmFChuiezVkQ?fbclid=IwAR3G8byofmt1jZdYMbG57yToD3c1V85RlCJHjcpPINCT27-DfxShjl2U_x4)
+
 ## 🧬 HTML
 - [HTML5 Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Reference](https://htmlreference.io/)
@@ -61,6 +67,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
+- [Remove Image Background](https://www.remove.bg/)
 
 ## 🦄 Icons
 - [Iconly](https://piqodesign.gumroad.com/l/iconly)
@@ -74,20 +81,29 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Craftwork](https://craftwork.design/)
 - [Blush](https://blush.design/)
 
-### 📻 Sounds
-
-- [Lofi Coders](https://open.spotify.com/playlist/0pGdGpMm84h2Jl6Q1KmTMn?si=r2PvhZU_R4aPW0O860rxZA)
-- [Lofi Café](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP?si=eCGIEc9eTmyOgoBgKjof1g)
-- [Chillhop Radio](https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d?si=nURelKdmQ2GHKAep2w5HrQ)
-- [Shhhnoise](https://www.shhhnoise.com/)
-
 ## 🔍 Inspirations
 - [Mobbin](https://mobbin.design/)
 - [Awwwards](https://www.awwwards.com/)
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 - [Collect UI](https://collectui.com/)
+
+## 🎾 Practice
 - [Daily Dev](https://daily.dev/)
+- [Checklist Design](https://www.checklist.design/)
+- [A11 Y Project](https://www.a11yproject.com/checklist/)
+- [Design System Checklist](https://www.designsystemchecklist.com/)
+- [UX Challenges](https://uxtools.co/challenges/)
+- [Sharpen Design](https://sharpen.design/)
+- [What Should I Design](http://www.whatshouldidesign.com/)
+- [Brief Generator](https://goodbrief.io/)
+
+### 📻 Sounds
+
+- [Lofi Coders](https://open.spotify.com/playlist/0pGdGpMm84h2Jl6Q1KmTMn?si=r2PvhZU_R4aPW0O860rxZA)
+- [Lofi Café](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP?si=eCGIEc9eTmyOgoBgKjof1g)
+- [Chillhop Radio](https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d?si=nURelKdmQ2GHKAep2w5HrQ)
+- [Shhhnoise](https://www.shhhnoise.com/)
 
 ## 📡 Deploying
 
