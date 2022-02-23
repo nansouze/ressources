@@ -92,6 +92,8 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Ouch](https://icons8.com/illustrations)
 - [Craftwork](https://craftwork.design/)
 - [Blush](https://blush.design/)
+- [Storyset](https://storyset.com/)
+- [Humaaans](https://www.humaaans.com/)
 
 ## 🔍 Inspirations
 
