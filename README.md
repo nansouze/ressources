@@ -54,6 +54,8 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [CSS for People Who Hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/)
 - [Clippy](https://bennettfeely.com/clippy/)
 - [CSS Easing Functions](https://easings.net/)
+- [CSS Gradient](https://cssgradient.io/)
+- [Gradient Art](https://gra.dient.art/)
 
 ## 🎨 Colors
 
@@ -64,7 +66,6 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Material Palette](https://www.materialpalette.com/)
 - [UI Gradients](https://uigradients.com/)
-- [CSS Gradient](https://cssgradient.io/)
 - [HTML Color Codes](https://htmlcolorcodes.com/fr/)
 - [0 to 255](https://www.0to255.com/)
 - [Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)
