@@ -107,6 +107,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Blush](https://blush.design/)
 - [Storyset](https://storyset.com/)
 - [Humaaans](https://www.humaaans.com/)
+- [Storytale](https://storytale.io/)
 
 ## 🔍 Inspirations
 
