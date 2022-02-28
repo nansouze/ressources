@@ -56,6 +56,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [CSS Easing Functions](https://easings.net/)
 - [CSS Gradient](https://cssgradient.io/)
 - [Gradient Art](https://gra.dient.art/)
+- [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)
 
 ## 🎨 Colors
 
