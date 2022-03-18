@@ -100,6 +100,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Icons8](https://icons8.com/)
 - [Flaticon](https://www.flaticon.com/)
 - [Noun Project](https://thenounproject.com/)
+- [Devicon](https://devicon.dev/)
 
 ## 🖌️ Illustrations
 
@@ -121,12 +122,12 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 
 ## 🎾 Practice
 
-- **DEV**
+**DEV**
   - [Front End Mentor Challenges](https://www.frontendmentor.io/challenges)
   - [Front End Masters Bootcamp](https://frontendmasters.com/bootcamp/)
   - [Daily Dev](https://daily.dev/)
 
-- **DESIGN**
+**DESIGN**
   - [Checklist Design](https://www.checklist.design/)
   - [A11 Y Project](https://www.a11yproject.com/checklist/)
   - [Design System Checklist](https://www.designsystemchecklist.com/)
