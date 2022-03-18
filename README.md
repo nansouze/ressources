@@ -159,3 +159,4 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [SQL Lite Online IDE](https://sqliteonline.com/)
+- [Open Source SQL Editor and Database Manager](https://www.beekeeperstudio.io/)
