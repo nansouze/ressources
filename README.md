@@ -37,6 +37,8 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Mind Meister Open Classroom](https://www.mindmeister.com/fr/1701207547/d-veloppement-web?fullscreen=1)
 - [Whimsical](https://whimsical.com/javascript-QY5if68ixaKmFChuiezVkQ?fbclid=IwAR3G8byofmt1jZdYMbG57yToD3c1V85RlCJHjcpPINCT27-DfxShjl2U_x4)
 - [Milanote](https://milanote.com/)
+- [Watermark Remover](https://www.watermarkremover.io/)
+- [Remove Background](https://www.remove.bg/fr)
 
 ## 🧬 HTML
 
@@ -85,6 +87,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Transfonter](https://transfonter.org/)
 - [The 100 Best Free Fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 - [A Pocket Guide to Typography](http://www.typogui.de/)
+- [Pousse ta Fonte](https://www.poussetafonte.com/)
 
 ## 📷 Pictures
 
