@@ -157,6 +157,7 @@ Des outils pour nous aider au quotidien & coder / designer des sites web
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
+- [Digital Ocean](https://www.digitalocean.com/)
 
 ## 🗄️ SGBD (Système de Gestion de Base de Données)
 
